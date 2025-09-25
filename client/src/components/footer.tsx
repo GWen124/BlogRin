@@ -59,7 +59,7 @@ function Footer() {
                             setDoubleClickTimes(doubleClickTimes + 1)
                         }
                     }}>
-                        © 2025 <a href="https://blog.gw124.top/" target="_blank" rel="noopener noreferrer">BLOG.GW124.TOP</a>
+                        © 2025 <a href="https://gw124.top/" target="_blank" rel="noopener noreferrer">BLOG.GW124.TOP</a>
                     </span>
                     {config.get<boolean>('rss') && <>
                         <Spliter />
